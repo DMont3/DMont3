@@ -4,14 +4,14 @@ I'm a Full Stack Developer passionate about building web applications and solvin
 
 ---
 
-###  socials:
+###  Socials:
 <a href="https://www.linkedin.com/in/danielmonteiro1" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 ---
 
-### tech stack:
+### Tech Stack:
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -31,7 +31,7 @@ I'm a Full Stack Developer passionate about building web applications and solvin
 
 ---
 
-### github stats:
+### Github Stats:
 
 [![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMont3&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
