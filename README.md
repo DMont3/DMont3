@@ -31,10 +31,6 @@ I'm a Full Stack Developer passionate about building web applications and solvin
 
 ---
 
-### Github Stats:
-
-[![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMont3&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMont3&layout=compact&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
